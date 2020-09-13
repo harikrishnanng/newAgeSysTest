@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="roameoreact/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-368828646/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-368828646/react-native-community_async-storage.iml" group="roameoreact/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1507689321/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1507689321/react-native-community_masked-view.iml" group="roameoreact/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-240634848/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-240634848/react-native-gesture-handler.iml" group="roameoreact/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/379316274/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/379316274/react-native-linear-gradient.iml" group="roameoreact/react-native-linear-gradient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1582585340/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1582585340/react-native-reanimated.iml" group="roameoreact/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1329513609/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1329513609/react-native-safe-area-context.iml" group="roameoreact/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-857502751/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-857502751/react-native-screens.iml" group="roameoreact/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/roameoreact.iml" filepath="$PROJECT_DIR$/.idea/modules/roameoreact.iml" group="roameoreact" />
+    </modules>
+  </component>
+</project>
