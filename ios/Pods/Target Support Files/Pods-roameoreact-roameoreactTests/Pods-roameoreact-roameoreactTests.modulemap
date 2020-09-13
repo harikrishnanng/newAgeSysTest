@@ -1,0 +1,6 @@
+module Pods_roameoreact_roameoreactTests {
+  umbrella header "Pods-roameoreact-roameoreactTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
